@@ -1,0 +1,9 @@
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.csprojAssemblyReference.cache
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.csproj.CoreCompileInputs.cache
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.AssemblyInfoInputs.cache
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.AssemblyInfo.cs
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/bin/Debug/netstandard2.0/blazorchrisvz.Shared.deps.json
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/bin/Debug/netstandard2.0/blazorchrisvz.Shared.dll
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/bin/Debug/netstandard2.0/blazorchrisvz.Shared.pdb
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.dll
+/Users/kristijanklepac/Desktop/blazornetex/blazorchrisvz/blazorchrisvz.Shared/obj/Debug/netstandard2.0/blazorchrisvz.Shared.pdb

@@ -1,0 +1,40 @@
+﻿@using blazorchrisvz.Shared
+@page "/login"
+@inject HttpClient Http
+
+
+<div class="container">
+    <h1> Login Example in Blazor by Kristijan Klepač</h1>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" name="username" placeholder="Username" class="form-control" bind="@Username" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" name="password" placeholder="Password" class="form-control" bind="@Password" />
+    </div>
+    <button onclick="@SubmitForm">Submit</button>
+</div>
+@functions {
+
+    public string Username { get; set; } = "";
+    public string Password { get; set; } = "";
+    public string Token { get; set; } = "";
+
+
+
+    private async Task SubmitForm()
+    {
+
+        var um = new User
+        {
+            Username = Username,
+            Password = Password
+        };
+
+        var response = await Http.PostJsonAsync<object>("http://localhost:5000/api/login/", um);
+        Console.WriteLine($"{Username} and {Password}");
+        Console.WriteLine(response);
+    }
+
+}

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7AD967CC-D2A3-4610-82EB-893C9D0154C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="blazorchrisvz.Client/Pages/Login.cshtml">
+    <Files>
+      <File FileName="blazorchrisvz.Client/Shared/NavMenu.cshtml" Line="17" Column="51" />
+      <File FileName="blazorchrisvz.Server/Models/TokenManager.cs" Line="89" Column="2" />
+      <File FileName="blazorchrisvz.Server/Controllers/LoginController.cs" Line="38" Column="1" />
+      <File FileName="blazorchrisvz.Client/Pages/Login.cshtml" Line="40" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.blazorchrisvz.Server PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
